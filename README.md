@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrispinManda
-- 👀 I’m interested in ... Web design Javascript PHP and MySQL 
+- 👀 I’m interested in ... Web design Javascript PHP and MySQL and CSS
 - 🌱 I’m currently learning python
 - 💞️ 
 - 📫 
